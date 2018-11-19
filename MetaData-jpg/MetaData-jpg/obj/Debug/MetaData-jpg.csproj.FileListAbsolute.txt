@@ -1,0 +1,10 @@
+C:\Users\merpe\Desktop\C#\MetaData-jpg\MetaData-jpg\obj\Debug\MetaData-jpg.csprojAssemblyReference.cache
+C:\Users\merpe\Desktop\C#\MetaData-jpg\MetaData-jpg\obj\Debug\MetaData_jpg.Form1.resources
+C:\Users\merpe\Desktop\C#\MetaData-jpg\MetaData-jpg\obj\Debug\MetaData_jpg.Properties.Resources.resources
+C:\Users\merpe\Desktop\C#\MetaData-jpg\MetaData-jpg\obj\Debug\MetaData-jpg.csproj.GenerateResource.cache
+C:\Users\merpe\Desktop\C#\MetaData-jpg\MetaData-jpg\obj\Debug\MetaData-jpg.csproj.CoreCompileInputs.cache
+C:\Users\merpe\Desktop\C#\MetaData-jpg\MetaData-jpg\bin\Debug\MetaData-jpg.exe.config
+C:\Users\merpe\Desktop\C#\MetaData-jpg\MetaData-jpg\bin\Debug\MetaData-jpg.exe
+C:\Users\merpe\Desktop\C#\MetaData-jpg\MetaData-jpg\bin\Debug\MetaData-jpg.pdb
+C:\Users\merpe\Desktop\C#\MetaData-jpg\MetaData-jpg\obj\Debug\MetaData-jpg.exe
+C:\Users\merpe\Desktop\C#\MetaData-jpg\MetaData-jpg\obj\Debug\MetaData-jpg.pdb
